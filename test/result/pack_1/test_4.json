@@ -1,0 +1,66 @@
+[
+  {
+    "start_date": "2021-05-02",
+    "supplier": "FRS",
+    "carriers": "DHP",
+    "delivery_date": "2021-05-04",
+    "days_to_deliver": 2,
+    "cost": 5
+  },
+  {
+    "start_date": "2021-05-03",
+    "supplier": "FRS",
+    "carriers": "DHP",
+    "delivery_date": "2021-05-06",
+    "days_to_deliver": 3,
+    "cost": 5
+  },
+  {
+    "start_date": "2021-05-04",
+    "supplier": "FRS",
+    "carriers": "DHP",
+    "delivery_date": "2021-05-06",
+    "days_to_deliver": 2,
+    "cost": 5
+  },
+  {
+    "start_date": "2021-05-05",
+    "supplier": "FRS",
+    "carriers": "DHP",
+    "delivery_date": "2021-05-07",
+    "days_to_deliver": 2,
+    "cost": 5
+  },
+  {
+    "start_date": "2021-05-06",
+    "supplier": "FRS",
+    "carriers": "DHP",
+    "delivery_date": "2021-05-08",
+    "days_to_deliver": 2,
+    "cost": 5
+  },
+  {
+    "start_date": "2021-05-07",
+    "supplier": "FRS",
+    "carriers": "DHP",
+    "delivery_date": "2021-05-09",
+    "days_to_deliver": 2,
+    "cost": 5
+  },
+  {
+    "start_date": "2021-05-08",
+    "supplier": "FRS",
+    "carriers": "DHP",
+    "delivery_date": "2021-05-12",
+    "days_to_deliver": 4,
+    "cost": 5
+  },
+  {
+    "start_date": "2021-05-09",
+    "supplier": "FRS",
+    "carriers": "DHP",
+    "delivery_date": "2021-05-12",
+    "days_to_deliver": 3,
+    "cost": 5
+  }
+]
